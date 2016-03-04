@@ -1,0 +1,12 @@
+  .container-fluid {
+    padding: 0;
+    background-color: rgb(25, 67, 129)
+  }
+
+  .navbar{
+    background-color: rgba(218, 134, 35, 0.78);
+  }
+
+  .bs-example-navbar-collapse-1{
+    background-color: rgb(224, 26, 26)
+  }
